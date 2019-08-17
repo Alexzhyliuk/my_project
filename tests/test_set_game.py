@@ -1,4 +1,4 @@
-import set_game
+from cardsgames import set_game
 import pytest
 
 
